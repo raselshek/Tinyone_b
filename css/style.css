@@ -1,0 +1,148 @@
+body{
+	font-family: 'PT Sans', sans-serif;
+
+}
+header{
+	background-color: #fcdb00;
+	padding: 20px 0;
+}
+.menubar{
+
+}
+
+.menubar ul li a {
+    padding: 0 35px !important;
+    font-weight: 700;
+    color: #010101;
+    font-size: 22px;
+}
+.slider{
+	background-color: #fcdb00;
+	padding-bottom: 40px;
+}
+.inspiration {
+
+}
+.inspiration h1{
+	font-weight: 700;
+	font-size: 32px;
+	font-family: 'PT Sans', sans-serif;
+	color: #010101;
+	margin-top: 140px;
+}
+.inspiration h2{
+	font-weight: 400;
+	font-size: 20px;
+	font-family: 'PT Sans', sans-serif;
+	color: #313841;
+	margin:25px 0;
+
+}
+.inspiration p{
+	font-size: 16px;
+	font-family: 'PT Sans', sans-serif;
+	color: #555555;
+	margin: 30px 0;
+}
+.inspiration i{
+	font-size: 42px;
+	margin:25px 35px 0 0 ;
+
+}
+.slider_img{
+	
+}
+.c-ind li {
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+    bottom: -40px;
+
+}
+.slider_img {
+    margin: 45px 0;
+}
+.carousel-indicators {
+    
+    bottom: -40px;
+    
+}
+/*-------- service starts ------------*/
+.service{
+
+}
+.common_title{
+	margin:100px 0;
+}
+.common_title h1{
+	color:#010101;
+	font-weight: 700;
+}
+.common_title p{
+	color:#313841;
+	    padding: 0 86px;
+}
+.icon {
+    font-size: 50px;
+    margin: -13px 0px 0px 19px;
+}
+.single_content h1{
+	font-size: 22px;
+	font-weight: 700;
+	color: #010101;
+
+}
+.single_content p{
+	color: #898989;
+	font-size: 16px;
+}
+.single_item {
+    margin-bottom: 80px;
+}
+/*-------- service end ------------*/
+/*--------------- contact starts -------------*/
+.contact{
+	background-color: #010101;
+}
+.yellow{
+	color: yellow !important;
+}
+
+.p-l-0{
+	padding-left: 0px;
+}
+.bg-yellow{
+	background-color: yellow !important;
+}
+.second-title {
+    padding: 0 84px;
+    margin: 45px 0;
+    color: #898989;
+}
+.social-id{
+	background-color: black;
+}
+.all-id{
+	color: yellow;
+	font-size: 40px;
+}
+.all-id ul a i{
+	color: yellow;
+}
+.all-id ul a i:hover{
+	color: white;
+}
+.all-id i{
+	margin: 40px 20px 70px 0;
+}
+.footer{
+	background-color: black;
+}
+.foot2 ul, .foot3 ul, .foot4 ul, .foot5 ul{
+	list-style: none;
+}
+.foot1,.foot2 ul li a, .foot3 ul li a, .foot4 ul li a, .foot5 ul li a{
+	color:#ffffff;
+	
+}
+/*--------------- contact end -------------*/

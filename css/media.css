@@ -1,0 +1,97 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+.menubar ul li a {
+    padding: 0 0!important;
+    text-align: right;
+}
+.menubar ul li a {
+    padding: 0 0!important;
+    text-align: right;
+}
+.inspiration {
+    text-align: center;
+}
+.inspiration h1 {
+    font-size: 25px;
+    margin-top: 30px;
+    
+}
+
+.form-control{
+	text-align: center;
+}
+.margin-auto{
+	margin: 10px auto;
+
+}
+.foot1{
+	text-align: center;
+}
+
+
+ }
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+.menubar ul li a {
+    padding: 0 0!important;
+    text-align: right;
+}
+
+
+
+
+ }
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+.menubar ul li a {
+    padding: 0 0!important;
+    text-align: right;
+}
+.inspiration h1 {
+    font-weight: 700;
+    font-size: 30px;
+    font-family: 'PT Sans', sans-serif;
+    color: #010101;
+    margin-top: 40px;
+}
+.icon {
+    font-size: 50px;
+    margin: -15px 0px 0px 0px;
+}
+.single_content h1{
+	font-size: 18px;
+
+}
+.single_content p{
+	font-size: 15px;
+}
+.icon {
+    font-size: 40px;
+}
+.foot1{
+	text-align: center;
+	padding: 0 120px;
+	padding: 0 100px;
+}
+
+
+
+ }
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+	
+ }
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+.icon {
+    font-size: 50px;
+    margin: -12px -50px 0px 19px;
+}
+
+
+ }
